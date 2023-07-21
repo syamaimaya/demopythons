@@ -1,0 +1,20 @@
+body{
+background-image:url("pinky.jpg");
+background-repeat:no-repeat;
+background-size:2000px 1000px;
+}
+
+.banner{
+background-color:mediumorchid;
+width:10%;
+height:100px;
+margin-bottom:50px;
+}
+
+.banner-text{
+text-align: center;
+top:10%;
+left:45%;
+position:absolute;
+transform:'';
+}
